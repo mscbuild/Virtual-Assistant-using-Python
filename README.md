@@ -6,7 +6,7 @@
 
 “Good morning, sir. All systems are online.”
 
-🚀 # Features
+# 🚀 Features
 
 - 🗣️ Voice command recognition (using SpeechRecognition)
 
@@ -24,7 +24,7 @@
 
 - 🧠 Basic chatbot mode (optional with GPT integration)
 
-  🧰 # Tech Stack
+ # 🧰 Tech Stack
 
 - Python 3.8+
 
@@ -42,7 +42,7 @@
 
 openai (optional)
 
-🔧 # Setup
+# 🔧 Setup
 
 **Contents of .env file:**
 ~~~bach
@@ -54,7 +54,7 @@ NEWS_API_KEY=None
 OPENWEATHER_APP_ID=None
 TMDB_API_KEY=None
 ~~~
-Replace ~None with your values
+Replace ~None~ with your values
 
 🙋‍♂️ # Acknowledgements
 
