@@ -8,9 +8,9 @@
 
 🚀 # Features
 
--🗣️ Voice command recognition (using SpeechRecognition)
+- 🗣️ Voice command recognition (using SpeechRecognition)
 
--💬 Text-to-speech responses (pyttsx3)
+- 💬 Text-to-speech responses (pyttsx3)
 
 -🌐 Web search & Wikipedia summarizer
 
