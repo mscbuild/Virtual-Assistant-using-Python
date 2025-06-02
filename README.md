@@ -1,4 +1,13 @@
   # 🤖 Python Project – How to Build JarvisAI with Python
+   ![](https://komarev.com/ghpvc/?username=mscbuild) 
+ ![](https://img.shields.io/github/license/mscbuild/e-learning) 
+ ![](https://img.shields.io/github/repo-size/mscbuild/e-learning)
+![](https://img.shields.io/badge/PRs-Welcome-green)
+![](https://img.shields.io/badge/code%20style-python-green)
+![](https://img.shields.io/github/stars/mscbuild)
+![](https://img.shields.io/badge/Topic-Github-lighred)
+![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fmscbuild)
+
 
 **This project is created only for those who are interested in building a Virtual Assistant. Generally, it took lots of time to write code from scratch to build a Virtual Assistant. So, I have built a Library called "JarvisAI", which gives you easy functionality to build your own Virtual Assistant.JarvisAI is a voice-activated personal assistant built with Python. Inspired by Tony Stark's J.A.R.V.I.S., this assistant can help automate tasks like searching the web, opening apps, sending emails, reading news, fetching weather info, telling jokes, and much more.**
 
