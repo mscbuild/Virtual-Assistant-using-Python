@@ -6,6 +6,24 @@
 
 “Good morning, sir. All systems are online.”
 
+🚀 # Features
+
+-🗣️ Voice command recognition (using SpeechRecognition)
+
+-💬 Text-to-speech responses (pyttsx3)
+
+-🌐 Web search & Wikipedia summarizer
+
+-☁️ Weather updates via OpenWeatherMap API
+
+-📰 News headlines from NewsAPI
+
+-📧 Email sender
+
+-⏰ Alarms & reminders
+
+🧠 Basic chatbot mode (optional with GPT integration)
+
 - freeCodeCamp article: https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/
 
 **Contents of .env file:**
