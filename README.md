@@ -43,7 +43,7 @@
 openai (optional)
 
 # 📁 Project Structure
-~~bash
+~~~bash
 JarvisAI/
 ├── jarvis.py
 ├── features/
@@ -55,7 +55,7 @@ JarvisAI/
 │   └── helper.py
 ├── requirements.txt
 └── README.md
-~~
+~~~
 
 
 # 🔧 Setup
