@@ -42,6 +42,22 @@
 
 openai (optional)
 
+# 📁 Project Structure
+~~bash
+JarvisAI/
+├── jarvis.py
+├── features/
+│   ├── weather.py
+│   ├── email_sender.py
+│   ├── news_fetcher.py
+│   └── speech_engine.py
+├── utils/
+│   └── helper.py
+├── requirements.txt
+└── README.md
+~~
+
+
 # 🔧 Setup
 
 **Contents of .env file:**
@@ -56,7 +72,7 @@ TMDB_API_KEY=None
 ~~~
 Replace ~None~ with your values
 
-🙋‍♂️ # Acknowledgements
+# 🙋‍♂️ Acknowledgements
 
 - SpeechRecognition
 
@@ -70,7 +86,7 @@ Replace ~None~ with your values
 
 - freeCodeCamp article: https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/
   
-📜 # License
+# 📜 License
 
 MIT License © 2025
  
