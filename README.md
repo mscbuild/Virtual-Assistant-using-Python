@@ -12,19 +12,37 @@
 
 - 💬 Text-to-speech responses (pyttsx3)
 
--🌐 Web search & Wikipedia summarizer
+- 🌐 Web search & Wikipedia summarizer
 
--☁️ Weather updates via OpenWeatherMap API
+- ☁️ Weather updates via OpenWeatherMap API
 
--📰 News headlines from NewsAPI
+- 📰 News headlines from NewsAPI
 
--📧 Email sender
+- 📧 Email sender
 
--⏰ Alarms & reminders
+- ⏰ Alarms & reminders
 
-🧠 Basic chatbot mode (optional with GPT integration)
+- 🧠 Basic chatbot mode (optional with GPT integration)
 
-- freeCodeCamp article: https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/
+  🧰 # Tech Stack
+
+- Python 3.8+
+
+- speechrecognition
+
+- pyttsx3
+
+- wikipedia
+
+- requests
+
+- datetime
+
+- smtplib
+
+openai (optional)
+
+🔧 # Setup
 
 **Contents of .env file:**
 ~~~bach
@@ -35,4 +53,24 @@ PASSWORD=None
 NEWS_API_KEY=None
 OPENWEATHER_APP_ID=None
 TMDB_API_KEY=None
+~~~
+Replace ~None with your values
+
+🙋‍♂️ # Acknowledgements
+
+- SpeechRecognition
+
+- pyttsx3
+
+- OpenWeatherMap
+
+- NewsAPI
+
+- OpenAI
+
+- freeCodeCamp article: https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/
+  
+📜 # License
+
+MIT License © 2025
 ~~~
