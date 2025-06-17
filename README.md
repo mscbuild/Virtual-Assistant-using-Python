@@ -1,7 +1,7 @@
   # 🤖 Python Project – How to Build JarvisAI with Python
    ![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/github/license/mscbuild/e-learning) 
- ![](https://img.shields.io/github/repo-size/mscbuild/e-learning)
+ ![](https://img.shields.io/github/repo-size/mscbuild/Virtual-Assistant-using-Python)
 ![](https://img.shields.io/badge/PRs-Welcome-green)
 ![](https://img.shields.io/badge/code%20style-python-green)
 ![](https://img.shields.io/github/stars/mscbuild)
@@ -52,7 +52,7 @@
 openai (optional)
 
 # 📁 Project Structure
-~~~bash
+~~~ruby
 JarvisAI/
 ├── jarvis.py
 ├── features/
@@ -70,7 +70,7 @@ JarvisAI/
 # 🔧 Setup
 
 **Contents of .env file:**
-~~~bach
+~~~ruby
 USER=None
 BOTNAME=JARVIS
 EMAIL=None
